@@ -1,6 +1,6 @@
-# NFT Marketplace Complete
+# NFT Mint NFT Complete
 
-Complete version of the NFT Marketplace in CHZ network, using Thirdweb
+Complete version of the Mint in Bulk NFTs in CHZ network, using Thirdweb. Your can mint your nft's in bulk
 
 ## Configuration Process
 
@@ -35,3 +35,15 @@ To start the development server, run:
 ```sh
 npm run dev
 ```
+
+After opening the project and connecting your wallet, you can view the NFTs you own. Additionally, you have the option to perform a single mint operation or upload an XLS or XLSX file to execute bulk minting operations.
+
+### For mint in bulk examle .xls or .xlsx file : 
+![image](https://github.com/sinanyilmaz0/Chiliz-Web3-Mint-Bulk/assets/48128545/93eb9077-b777-41e5-ba3f-c6e8e9d2f93e)
+
+### Mint in Bulk Page :
+![image](https://github.com/sinanyilmaz0/Chiliz-Web3-Mint-Bulk/assets/48128545/68502ebc-2bdd-4f41-a4ba-0a12dc539ef9)
+
+### After Mint in Bulk:
+![image](https://github.com/sinanyilmaz0/Chiliz-Web3-Mint-Bulk/assets/48128545/34c60d7a-d773-4dc1-a1c7-925d83737f1b)
+
