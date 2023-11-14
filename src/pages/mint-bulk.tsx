@@ -50,7 +50,6 @@ export default function Wallet() {
             const data = XLSX.utils.sheet_to_json(sheet);
     
             if (data && data.length > 0) {
-                // Örnek: İlk satırdaki verileri kullanarak NFT'leri oluştur
                 const promises = data.map(async (row: any) => {
                     const metadata: MintMetadata = {
                         metadata: {
